@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior-Front-end developer
 --------------------------
 
-I am unior Front-End Developer with a foundational understanding of web development and a passion for crafting intuitive, responsive user interfaces.
+I am Junior Front-End Developer with a foundational understanding of web development and a passion for crafting intuitive, responsive user interfaces.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [h.grigore.dev@gmail.com](mailto:h.grigore.dev@gmail.com)
